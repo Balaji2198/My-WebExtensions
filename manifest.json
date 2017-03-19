@@ -20,7 +20,7 @@
 
 
   "browser_action": {
-    "default_icon": "icons/page-32.png",
+    "default_icon": "navigate.png",
     "default_title": "Open New Tab",
     "default_popup": "choose_switch.html"
   }
